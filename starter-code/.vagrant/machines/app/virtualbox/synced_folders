@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/ubuntu/app":{"guestpath":"/home/ubuntu/app","hostpath":"C:/Users/James Murphy/Documents/Week 5/05-Devops-Labs/lab-6/starter-code/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/James Murphy/Documents/Week 5/05-Devops-Labs/lab-6/starter-code","disabled":false,"__vagrantfile":true}}}
