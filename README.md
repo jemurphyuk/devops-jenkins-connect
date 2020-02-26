@@ -11,10 +11,6 @@ Create jenkins slave VM from Jenkins master in windows
 
 how do i build a vagrant vm using my own SSH key
 
-hello everyone
+this is so coooollllll
 
-this is my extra line of code
-
-this should be merged to master branch
-
-hopefully this merges
+rubber duck
