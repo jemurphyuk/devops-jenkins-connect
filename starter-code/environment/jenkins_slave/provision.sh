@@ -28,7 +28,10 @@ sudo apt-get install nginx -y
 # finally, restart the nginx service so the new config takes hold
 sudo service nginx restart
 
-cat /vagrant/access-key-jslave >> /home/vagrant/.ssh/authorized_keys
+cat /vagrant/access-key-jslave.pub >> /home/vagrant/.ssh/authorized_keys
+
+#
+# echo "export DB_HOST=mongodb://192.168.10.150:27017/posts" >> ~/.bashrc
 
 # install jenkins
 # wget -q -O - https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo apt-key add -
