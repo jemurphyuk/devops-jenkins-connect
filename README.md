@@ -13,4 +13,6 @@ how do i build a vagrant vm using my own SSH key
 
 hello everyone
 
-this is my extra line of code 
+this is my extra line of code
+
+this should be merged to master branch
