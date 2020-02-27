@@ -13,4 +13,4 @@ how do i build a vagrant vm using my own SSH key
 
 this is so coooollllll
 
-rubber duck
+rubber duck debuged
